@@ -47,6 +47,15 @@ body {
 	background-color: white;
 }
 
+.menu-button {
+	color: black;
+	text-decoration: none;
+	padding: 15px;
+	display: inline-block;
+	float: right;
+
+}
+
 @media screen and (max-width: 766px) {
 	.header-alt {
 		display: block;
